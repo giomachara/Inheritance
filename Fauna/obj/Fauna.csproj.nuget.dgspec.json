@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giorgilocal\\Source\\Repos\\Inheritance\\Fauna\\Fauna.csproj": {}
+    "C:\\Users\\giorgilocal\\source\\repos\\Inheritance\\Fauna\\Fauna.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giorgilocal\\Source\\Repos\\Inheritance\\Fauna\\Fauna.csproj": {
+    "C:\\Users\\giorgilocal\\source\\repos\\Inheritance\\Fauna\\Fauna.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giorgilocal\\Source\\Repos\\Inheritance\\Fauna\\Fauna.csproj",
+        "projectUniqueName": "C:\\Users\\giorgilocal\\source\\repos\\Inheritance\\Fauna\\Fauna.csproj",
         "projectName": "Fauna",
-        "projectPath": "C:\\Users\\giorgilocal\\Source\\Repos\\Inheritance\\Fauna\\Fauna.csproj",
+        "projectPath": "C:\\Users\\giorgilocal\\source\\repos\\Inheritance\\Fauna\\Fauna.csproj",
         "packagesPath": "C:\\Users\\giorgilocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giorgilocal\\Source\\Repos\\Inheritance\\Fauna\\obj\\",
+        "outputPath": "C:\\Users\\giorgilocal\\source\\repos\\Inheritance\\Fauna\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

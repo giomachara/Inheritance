@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Fauna;
 
-namespace Fauna
+public class Shashvi : Bird
 {
-    public class Shashvi : Bird
+    public Shashvi()
     {
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Shashvi was created!");
+        Console.ResetColor();
     }
 }
