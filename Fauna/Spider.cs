@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿namespace Fauna;
 
-namespace Fauna
+public class Spider : Insect
 {
-    public class Spider : Insect
-    {
-    }
 }

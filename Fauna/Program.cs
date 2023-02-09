@@ -1,12 +1,9 @@
-﻿using System;
+﻿namespace Fauna;
 
-namespace Fauna
+class Program
 {
-  class Program
-  {
-    static void Main(string[] args)
-    {
+static void Main(string[] args)
+{
 
-    }
-  }
+}
 }
