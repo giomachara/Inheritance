@@ -32,5 +32,8 @@ class Program
         shashvi1.Fly();
         shashvi2.Fly();
 
+        Dog dog1 = new Dog("bibi");
+        dog1.Bark();
+
     }
 }
