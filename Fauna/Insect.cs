@@ -8,4 +8,9 @@ public class Insect : Creature
         Console.WriteLine("Insect was created!");
         Console.ResetColor();
     }
+    
+        protected override void Breath()
+    {
+        Console.WriteLine("Insect is breathing with air");
+    }
 }

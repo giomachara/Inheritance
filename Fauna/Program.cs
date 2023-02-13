@@ -35,5 +35,22 @@ class Program
         Dog dog1 = new Dog("bibi");
         dog1.Bark();
 
+        Animal animal = new Animal("Zebra");
+
+        Console.WriteLine();
+
+        Dog dog = new Dog("Bobi");
+        dog.Bark();
+
+        Console.WriteLine();
+
+        SuperDog superDog = new SuperDog();
+
+        Console.WriteLine();
+
+        Cat cat = new Cat("Cat");
+
+        Shark shark = new Shark("Shark");
+
     }
 }

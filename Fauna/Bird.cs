@@ -13,4 +13,9 @@ public class Bird : Creature,IFlying
     {
         Console.WriteLine($"{Name} is flying");
     }
+
+    protected override void Breath()
+    {
+        Console.WriteLine("Bird is breathing with air");
+    }
 }

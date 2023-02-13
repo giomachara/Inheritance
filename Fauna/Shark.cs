@@ -2,7 +2,7 @@
 
 public class Shark : Fish
 {
-    public Shark()
+    public Shark(string name) : base(name)
     {
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Shark was created!");

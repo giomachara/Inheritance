@@ -8,4 +8,11 @@ public class Human : Creature
         Console.WriteLine("Human was created!");
         Console.ResetColor();
     }
+
+
+
+    protected override void Breath()
+    {
+        Console.WriteLine("Human is breathing with air");
+    }
 }

@@ -3,7 +3,7 @@
   <Class Name="Fauna.Creature">
     <Position X="10.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Creature.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -14,21 +14,21 @@
   <Class Name="Fauna.Vehicle">
     <Position X="25.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAgAAAACAAAAAAAAAAAAAAAAAAAAhAAAEAgIAAAAAAA=</HashCode>
+      <HashCode>AAgAAAACAAAAAAAAAAAAAAAAAAAAhAAAEAgIAAABAAA=</HashCode>
       <FileName>Vehicle.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Fauna.Animal">
     <Position X="3.5" Y="5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Animal.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Fauna.Fish">
     <Position X="7" Y="5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAA=</HashCode>
       <FileName>Fish.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -52,13 +52,6 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Human.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="Fauna.Alien">
-    <Position X="20.5" Y="5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Alien.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Fauna.Bee">
@@ -92,7 +85,7 @@
   <Class Name="Fauna.Dog">
     <Position X="2.5" Y="7.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Dog.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -124,6 +117,20 @@
       <FileName>Plane.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fauna.Alf">
+    <Position X="21.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fauna.Alien">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alien.cs</FileName>
+    </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="10" />
 </ClassDiagram>

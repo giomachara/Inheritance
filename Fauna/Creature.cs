@@ -1,19 +1,27 @@
 ﻿namespace Fauna;
 
-public class Creature
+public abstract class Creature
 {
     public Creature()
     {
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Creature was created!");
         Console.ResetColor();
+        Breath();
     }
 
     public string Name { get; set; }
 
-    public void Breath()
+    //public void Breath()
+    //{
+    //    Console.WriteLine("Creature is breathing");
+    //}
+
+    public void Move()
     {
-        Console.WriteLine("Creature is breathing");
+        Console.WriteLine("Creature is moving");
     }
+
+    protected abstract void Breath();
     
 }

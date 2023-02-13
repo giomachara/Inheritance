@@ -1,6 +1,6 @@
 ﻿namespace Fauna;
 
-public class Alien : Creature
+public abstract class Alien : Creature
     {
     public Alien()
     {
@@ -8,4 +8,6 @@ public class Alien : Creature
         Console.WriteLine("Alien was created!");
         Console.ResetColor();
     }
+
+    //public string Planet
 }
