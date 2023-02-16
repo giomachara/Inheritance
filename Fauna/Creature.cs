@@ -8,6 +8,7 @@ public abstract class Creature
         Console.WriteLine("Creature was created!");
         Console.ResetColor();
         Breath();
+        Move();
     }
 
     public string Name { get; set; }
@@ -17,7 +18,7 @@ public abstract class Creature
     //    Console.WriteLine("Creature is breathing");
     //}
 
-    public void Move()
+    public virtual void Move()
     {
         Console.WriteLine("Creature is moving");
     }

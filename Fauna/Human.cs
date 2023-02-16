@@ -9,7 +9,10 @@ public class Human : Creature
         Console.ResetColor();
     }
 
-
+    public override void Move()
+    {
+        Console.WriteLine("Human can move");
+    } 
 
     protected override void Breath()
     {

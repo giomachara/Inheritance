@@ -52,5 +52,10 @@ class Program
 
         Shark shark = new Shark("Shark");
 
+        Human human1 = new Human();
+        human1.Move();
+        
+        
+
     }
 }
